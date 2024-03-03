@@ -26,8 +26,9 @@ def main():
 
     querystring = {"teamid":"15"}
 
+    # insert unique API Key
     headers = {
-        "X-RapidAPI-Key": "8f232eb2femsh6edd199cfd79fe2p1c70cdjsn032a029e15c0",
+        "X-RapidAPI-Key": "api_key",
         "X-RapidAPI-Host": "nhl-api5.p.rapidapi.com"
     }
 
