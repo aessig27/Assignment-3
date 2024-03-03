@@ -1,6 +1,6 @@
 redis:
-  host: redis-19246.c56.east-us.azure.cloud.redislabs.com
+  host: your_redis
   db: 0
   user: default
-  password: 7qkNJNOHWnBJYCEVL3LUJvAce7EfOZIh
+  password: password
   port: 19246
